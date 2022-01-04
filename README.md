@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/78098329/147257023-40800631-eb85-4951-929f-eb5ea0dae40a.png)
 
 ### Home Page
-![image](https://user-images.githubusercontent.com/78098329/147256921-bf20d30f-c6ab-4780-9c0e-4b3017ac5be7.png)
+![image](https://user-images.githubusercontent.com/78098329/148078447-9924c940-0bc2-4c67-af8c-4e84fd553c72.png)
 
 ### Inventory Page
 ![image](https://user-images.githubusercontent.com/78098329/147257115-bd6beb8d-33cc-44c3-8448-ed1b7053ebbc.png)
