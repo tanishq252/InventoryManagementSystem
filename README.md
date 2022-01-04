@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/78098329/148078583-e151bbd9-0b61-4457-a4df-0e757b6ca8c7.png)
 
 ### Login Page
-![image](https://user-images.githubusercontent.com/78098329/147257023-40800631-eb85-4951-929f-eb5ea0dae40a.png)
+![image](https://user-images.githubusercontent.com/78098329/148078735-cadac1d3-f69d-4cff-99d2-98182a9f60f4.png)
 
 ### Home Page
 ![image](https://user-images.githubusercontent.com/78098329/148078447-9924c940-0bc2-4c67-af8c-4e84fd553c72.png)
