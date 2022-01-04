@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/78098329/147255864-d8f59d96-0185-4680-b2e6-8a722bdd36db.png)
 
 ### Register Page
-![image](https://user-images.githubusercontent.com/78098329/147256284-5f3f26de-57bf-41f2-96e5-62e2d98b2d2b.png)
+![image](https://user-images.githubusercontent.com/78098329/148078583-e151bbd9-0b61-4457-a4df-0e757b6ca8c7.png)
 
 ### Login Page
 ![image](https://user-images.githubusercontent.com/78098329/147257023-40800631-eb85-4951-929f-eb5ea0dae40a.png)
