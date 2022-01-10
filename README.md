@@ -1,4 +1,4 @@
-# Invys
+# Invys 🏬
 This project is a part of the college curriculum where we were supposed to make use of OOP in Java to build a fully fledged project using GUI and JDBC
 ## A platform to manage your inventory
 - This project is done using Apache Netbeans IDE
