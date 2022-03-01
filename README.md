@@ -1,5 +1,5 @@
 # Invys 🏬
-Usera can login/register to efficiently manage their products for various purposes, whether it may be creating shopping list or creating a list of goods to keep track of inventory of shops, this application will help you for all the inventory management tasks.
+Users can login/register to efficiently manage their products for various purposes, whether it may be creating shopping list or creating a list of goods to keep track of inventory of shops, this application will help you for all the inventory management tasks.
 ## A platform to manage your inventory
 - This project is done using Apache Netbeans IDE
 - Technology used is MySQL and Java Swing
